@@ -35,13 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An answere to a papystycall exhortacyon pretendynge to auoyde false doctryne, vnder that colour to m
-#####Body#####
 
-1. The papystes tytle. An exhortacy on to auoyde false doctryne.
+#####Body#####
+EVerye pylde pedlarWyll be a medlarThough ther wyttes be drowsyeAnd ther lernynge lowsyeTher meters 
+    _ The papystes tytle. An exhortacy on to auoyde false doctryne.
 
 #####Back#####
-An answere to a papystycall exhortacyon pretendynge to auoyde false doctryne, vnder that colour to m
+
+1. ☞ The appendyce or conclusyon.
+
 **Types of content**
 
   * There are 520 **verse** lines!
